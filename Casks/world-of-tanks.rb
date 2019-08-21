@@ -27,7 +27,7 @@ cask 'world-of-tanks' do
   end
 
   language 'AZ', 'BE', 'HY', 'KK', 'KY', 'RU', 'UK', 'UZ', 'TG' do
-    sha256 'e70b3b35665d99511100355bb35990086984962cad82a7b9bb5ad864353e9c5e'
+    sha256 'b6456ec75d5595067e854a493b1d318ae611df9f6152ea25ee3d348d45938ef1'
 
     url 'https://wot.gcdn.co/ru/files/osx/worldoftanks_ru.dmg'
     appcast 'https://wot.gcdn.co/ru/files/osx/WoT_OSX_update_ru.xml'
